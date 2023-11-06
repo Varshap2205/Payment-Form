@@ -8,4 +8,5 @@ Responsive design for various screen sizes.
 Easily customizable for business needs.
 
 # Image
-![image](https://github.com/Varshap2205/Payment-Form/assets/142588198/c9bbe244-dee5-413f-81ac-470aca44bab3)
+![image](https://github.com/Varshap2205/Payment-Form/assets/142588198/1e254521-f986-4964-a027-d40575bc1d64)
+
